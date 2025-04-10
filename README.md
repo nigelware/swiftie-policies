@@ -1,3 +1,8 @@
+---
+layout: default
+title: Swiftie Lover App Policies
+---
+
 # Swiftie Lover App Policies
 
 This repository contains the official policies for the Swiftie Lover iOS app.
