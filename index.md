@@ -1,5 +1,5 @@
 ---
-title: Swiftie Lover App Policies
+title: Swiftie Lover App Policies  
 ---
 
 # Welcome to Swiftie Lover's Policy Center
